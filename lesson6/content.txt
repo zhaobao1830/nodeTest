@@ -1,0 +1,13 @@
+querystring.stringify
+querystring.parse(postData)
+一一对应
+爬虫
+目标网站 : http://101.200.129.112:4567/users/latest
+分析网站内容 :
+目标数据 : 会员用户名
+保存数据
+
+
+作业：
+1. 完成一个网站的爬取分析
+2. 小说看一遍，截取有效信息
