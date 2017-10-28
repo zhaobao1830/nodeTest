@@ -9,5 +9,5 @@ for(var i = 0; i < items.length; i++){
   var name = href.substr(6, href.length);
   var nameyao = href.split('/').pop();
   var namehuang = href.replace("/user/","")
-  console.log(namehuang);
+  console.log(nameyao);
 }
