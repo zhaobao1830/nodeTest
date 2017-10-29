@@ -11,7 +11,7 @@ var Schema = mongoose.Schema;
 var textSchema = new Schema({
   content:String
 })
-var Text = mongoose.model('Text', textSchema);
+var Text = mongoose.model('test', textSchema);
 var url = 'http://162.252.9.10/forum/thread-10050020-1-1.html';
 function myRequest(url, callback){
   var options = {
